@@ -1,4 +1,4 @@
-English is following  
+English is following.  
   
 # Données
 Ce dépôt vise à documenter les données utilisées dans le cadre de l'initiative [Archétype QC](https://github.com/Archetype-QC). Dans le cas où ces données sont publiques:  
